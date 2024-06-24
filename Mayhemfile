@@ -1,0 +1,6 @@
+project: quill
+target: quill
+
+cmds:
+  - cmd: /fuzz_trace
+    env: {}
